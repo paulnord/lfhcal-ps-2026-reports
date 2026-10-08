@@ -1,0 +1,4 @@
+# The combined PDF stays on BNLBox; keep the website below the Pages limit.
+ps-2026-r5-report.pdf
+*.zip
+.DS_Store
