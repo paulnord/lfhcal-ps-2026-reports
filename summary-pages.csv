@@ -1,0 +1,460 @@
+set,page,title,expected_file,path,status
+ps-a1,1,HG FWHM,HG_FWHMMip.png,ps-a1/plots/refine5/Muon_FullSetA_1/HG_FWHMMip.png,present
+ps-a1,2,HG Gaussian width,HG_GaussSigMip.png,ps-a1/plots/refine5/Muon_FullSetA_1/HG_GaussSigMip.png,present
+ps-a1,3,HG Landau MPV,HG_LandMPVMip.png,ps-a1/plots/refine5/Muon_FullSetA_1/HG_LandMPVMip.png,present
+ps-a1,4,HG Landau width,HG_LandSigMip.png,ps-a1/plots/refine5/Muon_FullSetA_1/HG_LandSigMip.png,present
+ps-a1,5,HG peak position,HG_MaxMip.png,ps-a1/plots/refine5/Muon_FullSetA_1/HG_MaxMip.png,present
+ps-a1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-a1/plots/refine5/Muon_FullSetA_1/HGscaleChi2VsLayer.png,present
+ps-a1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer00.png,present
+ps-a1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer01.png,present
+ps-a1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer02.png,present
+ps-a1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer03.png,present
+ps-a1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer04.png,present
+ps-a1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer05.png,present
+ps-a1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer06.png,present
+ps-a1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-a1/plots/refine5/Muon_FullSetA_1/MIP_HG_Layer07.png,present
+ps-a1,15,Trigger counts in XY,MipTriggXY.png,ps-a1/plots/refine5/Muon_FullSetA_1/MipTriggXY.png,present
+ps-a1,16,Trigger counts by channel,MuonTriggers.png,ps-a1/plots/refine5/Muon_FullSetA_1/MuonTriggers.png,present
+ps-a1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-a1/plots/refine5/Muon_FullSetA_1/SNRTriggVsLayer.png,present
+ps-a1,18,S/B in noise region,SuppressionNoise.png,ps-a1/plots/refine5/Muon_FullSetA_1/SuppressionNoise.png,present
+ps-a1,19,S/B in signal region,SuppressionSignal.png,ps-a1/plots/refine5/Muon_FullSetA_1/SuppressionSignal.png,present
+ps-a1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer00.png,present
+ps-a1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer01.png,present
+ps-a1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer02.png,present
+ps-a1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer03.png,present
+ps-a1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer04.png,present
+ps-a1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer05.png,present
+ps-a1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer06.png,present
+ps-a1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-a1/plots/refine5/Muon_FullSetA_1/TriggPrimitive_Layer07.png,present
+ps-a2,1,HG FWHM,HG_FWHMMip.png,ps-a2/plots/refine5/Muon_FullSetA_2/HG_FWHMMip.png,present
+ps-a2,2,HG Gaussian width,HG_GaussSigMip.png,ps-a2/plots/refine5/Muon_FullSetA_2/HG_GaussSigMip.png,present
+ps-a2,3,HG Landau MPV,HG_LandMPVMip.png,ps-a2/plots/refine5/Muon_FullSetA_2/HG_LandMPVMip.png,present
+ps-a2,4,HG Landau width,HG_LandSigMip.png,ps-a2/plots/refine5/Muon_FullSetA_2/HG_LandSigMip.png,present
+ps-a2,5,HG peak position,HG_MaxMip.png,ps-a2/plots/refine5/Muon_FullSetA_2/HG_MaxMip.png,present
+ps-a2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-a2/plots/refine5/Muon_FullSetA_2/HGscaleChi2VsLayer.png,present
+ps-a2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer00.png,present
+ps-a2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer01.png,present
+ps-a2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer02.png,present
+ps-a2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer03.png,present
+ps-a2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer04.png,present
+ps-a2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer05.png,present
+ps-a2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer06.png,present
+ps-a2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-a2/plots/refine5/Muon_FullSetA_2/MIP_HG_Layer07.png,present
+ps-a2,15,Trigger counts in XY,MipTriggXY.png,ps-a2/plots/refine5/Muon_FullSetA_2/MipTriggXY.png,present
+ps-a2,16,Trigger counts by channel,MuonTriggers.png,ps-a2/plots/refine5/Muon_FullSetA_2/MuonTriggers.png,present
+ps-a2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-a2/plots/refine5/Muon_FullSetA_2/SNRTriggVsLayer.png,present
+ps-a2,18,S/B in noise region,SuppressionNoise.png,ps-a2/plots/refine5/Muon_FullSetA_2/SuppressionNoise.png,present
+ps-a2,19,S/B in signal region,SuppressionSignal.png,ps-a2/plots/refine5/Muon_FullSetA_2/SuppressionSignal.png,present
+ps-a2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer00.png,present
+ps-a2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer01.png,present
+ps-a2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer02.png,present
+ps-a2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer03.png,present
+ps-a2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer04.png,present
+ps-a2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer05.png,present
+ps-a2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer06.png,present
+ps-a2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-a2/plots/refine5/Muon_FullSetA_2/TriggPrimitive_Layer07.png,present
+ps-b1,1,HG FWHM,HG_FWHMMip.png,ps-b1/plots/refine5/Muon_FullSetB_1/HG_FWHMMip.png,present
+ps-b1,2,HG Gaussian width,HG_GaussSigMip.png,ps-b1/plots/refine5/Muon_FullSetB_1/HG_GaussSigMip.png,present
+ps-b1,3,HG Landau MPV,HG_LandMPVMip.png,ps-b1/plots/refine5/Muon_FullSetB_1/HG_LandMPVMip.png,present
+ps-b1,4,HG Landau width,HG_LandSigMip.png,ps-b1/plots/refine5/Muon_FullSetB_1/HG_LandSigMip.png,present
+ps-b1,5,HG peak position,HG_MaxMip.png,ps-b1/plots/refine5/Muon_FullSetB_1/HG_MaxMip.png,present
+ps-b1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-b1/plots/refine5/Muon_FullSetB_1/HGscaleChi2VsLayer.png,present
+ps-b1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer00.png,present
+ps-b1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer01.png,present
+ps-b1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer02.png,present
+ps-b1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer03.png,present
+ps-b1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer04.png,present
+ps-b1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer05.png,present
+ps-b1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer06.png,present
+ps-b1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-b1/plots/refine5/Muon_FullSetB_1/MIP_HG_Layer07.png,present
+ps-b1,15,Trigger counts in XY,MipTriggXY.png,ps-b1/plots/refine5/Muon_FullSetB_1/MipTriggXY.png,present
+ps-b1,16,Trigger counts by channel,MuonTriggers.png,ps-b1/plots/refine5/Muon_FullSetB_1/MuonTriggers.png,present
+ps-b1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-b1/plots/refine5/Muon_FullSetB_1/SNRTriggVsLayer.png,present
+ps-b1,18,S/B in noise region,SuppressionNoise.png,ps-b1/plots/refine5/Muon_FullSetB_1/SuppressionNoise.png,present
+ps-b1,19,S/B in signal region,SuppressionSignal.png,ps-b1/plots/refine5/Muon_FullSetB_1/SuppressionSignal.png,present
+ps-b1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer00.png,present
+ps-b1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer01.png,present
+ps-b1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer02.png,present
+ps-b1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer03.png,present
+ps-b1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer04.png,present
+ps-b1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer05.png,present
+ps-b1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer06.png,present
+ps-b1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-b1/plots/refine5/Muon_FullSetB_1/TriggPrimitive_Layer07.png,present
+ps-b2,1,HG FWHM,HG_FWHMMip.png,ps-b2/plots/refine5/Muon_FullSetB_2/HG_FWHMMip.png,present
+ps-b2,2,HG Gaussian width,HG_GaussSigMip.png,ps-b2/plots/refine5/Muon_FullSetB_2/HG_GaussSigMip.png,present
+ps-b2,3,HG Landau MPV,HG_LandMPVMip.png,ps-b2/plots/refine5/Muon_FullSetB_2/HG_LandMPVMip.png,present
+ps-b2,4,HG Landau width,HG_LandSigMip.png,ps-b2/plots/refine5/Muon_FullSetB_2/HG_LandSigMip.png,present
+ps-b2,5,HG peak position,HG_MaxMip.png,ps-b2/plots/refine5/Muon_FullSetB_2/HG_MaxMip.png,present
+ps-b2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-b2/plots/refine5/Muon_FullSetB_2/HGscaleChi2VsLayer.png,present
+ps-b2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer00.png,present
+ps-b2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer01.png,present
+ps-b2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer02.png,present
+ps-b2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer03.png,present
+ps-b2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer04.png,present
+ps-b2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer05.png,present
+ps-b2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer06.png,present
+ps-b2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-b2/plots/refine5/Muon_FullSetB_2/MIP_HG_Layer07.png,present
+ps-b2,15,Trigger counts in XY,MipTriggXY.png,ps-b2/plots/refine5/Muon_FullSetB_2/MipTriggXY.png,present
+ps-b2,16,Trigger counts by channel,MuonTriggers.png,ps-b2/plots/refine5/Muon_FullSetB_2/MuonTriggers.png,present
+ps-b2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-b2/plots/refine5/Muon_FullSetB_2/SNRTriggVsLayer.png,present
+ps-b2,18,S/B in noise region,SuppressionNoise.png,ps-b2/plots/refine5/Muon_FullSetB_2/SuppressionNoise.png,present
+ps-b2,19,S/B in signal region,SuppressionSignal.png,ps-b2/plots/refine5/Muon_FullSetB_2/SuppressionSignal.png,present
+ps-b2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer00.png,present
+ps-b2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer01.png,present
+ps-b2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer02.png,present
+ps-b2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer03.png,present
+ps-b2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer04.png,present
+ps-b2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer05.png,present
+ps-b2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer06.png,present
+ps-b2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-b2/plots/refine5/Muon_FullSetB_2/TriggPrimitive_Layer07.png,present
+ps-c1,1,HG FWHM,HG_FWHMMip.png,ps-c1/plots/refine5/Muon_FullSetC_1/HG_FWHMMip.png,present
+ps-c1,2,HG Gaussian width,HG_GaussSigMip.png,ps-c1/plots/refine5/Muon_FullSetC_1/HG_GaussSigMip.png,present
+ps-c1,3,HG Landau MPV,HG_LandMPVMip.png,ps-c1/plots/refine5/Muon_FullSetC_1/HG_LandMPVMip.png,present
+ps-c1,4,HG Landau width,HG_LandSigMip.png,ps-c1/plots/refine5/Muon_FullSetC_1/HG_LandSigMip.png,present
+ps-c1,5,HG peak position,HG_MaxMip.png,ps-c1/plots/refine5/Muon_FullSetC_1/HG_MaxMip.png,present
+ps-c1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-c1/plots/refine5/Muon_FullSetC_1/HGscaleChi2VsLayer.png,present
+ps-c1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer00.png,present
+ps-c1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer01.png,present
+ps-c1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer02.png,present
+ps-c1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer03.png,present
+ps-c1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer04.png,present
+ps-c1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer05.png,present
+ps-c1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer06.png,present
+ps-c1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-c1/plots/refine5/Muon_FullSetC_1/MIP_HG_Layer07.png,present
+ps-c1,15,Trigger counts in XY,MipTriggXY.png,ps-c1/plots/refine5/Muon_FullSetC_1/MipTriggXY.png,present
+ps-c1,16,Trigger counts by channel,MuonTriggers.png,ps-c1/plots/refine5/Muon_FullSetC_1/MuonTriggers.png,present
+ps-c1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-c1/plots/refine5/Muon_FullSetC_1/SNRTriggVsLayer.png,present
+ps-c1,18,S/B in noise region,SuppressionNoise.png,ps-c1/plots/refine5/Muon_FullSetC_1/SuppressionNoise.png,present
+ps-c1,19,S/B in signal region,SuppressionSignal.png,ps-c1/plots/refine5/Muon_FullSetC_1/SuppressionSignal.png,present
+ps-c1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer00.png,present
+ps-c1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer01.png,present
+ps-c1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer02.png,present
+ps-c1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer03.png,present
+ps-c1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer04.png,present
+ps-c1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer05.png,present
+ps-c1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer06.png,present
+ps-c1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-c1/plots/refine5/Muon_FullSetC_1/TriggPrimitive_Layer07.png,present
+ps-c2,1,HG FWHM,HG_FWHMMip.png,ps-c2/plots/refine5/Muon_FullSetC_2/HG_FWHMMip.png,present
+ps-c2,2,HG Gaussian width,HG_GaussSigMip.png,ps-c2/plots/refine5/Muon_FullSetC_2/HG_GaussSigMip.png,present
+ps-c2,3,HG Landau MPV,HG_LandMPVMip.png,ps-c2/plots/refine5/Muon_FullSetC_2/HG_LandMPVMip.png,present
+ps-c2,4,HG Landau width,HG_LandSigMip.png,ps-c2/plots/refine5/Muon_FullSetC_2/HG_LandSigMip.png,present
+ps-c2,5,HG peak position,HG_MaxMip.png,ps-c2/plots/refine5/Muon_FullSetC_2/HG_MaxMip.png,present
+ps-c2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-c2/plots/refine5/Muon_FullSetC_2/HGscaleChi2VsLayer.png,present
+ps-c2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer00.png,present
+ps-c2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer01.png,present
+ps-c2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer02.png,present
+ps-c2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer03.png,present
+ps-c2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer04.png,present
+ps-c2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer05.png,present
+ps-c2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer06.png,present
+ps-c2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-c2/plots/refine5/Muon_FullSetC_2/MIP_HG_Layer07.png,present
+ps-c2,15,Trigger counts in XY,MipTriggXY.png,ps-c2/plots/refine5/Muon_FullSetC_2/MipTriggXY.png,present
+ps-c2,16,Trigger counts by channel,MuonTriggers.png,ps-c2/plots/refine5/Muon_FullSetC_2/MuonTriggers.png,present
+ps-c2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-c2/plots/refine5/Muon_FullSetC_2/SNRTriggVsLayer.png,present
+ps-c2,18,S/B in noise region,SuppressionNoise.png,ps-c2/plots/refine5/Muon_FullSetC_2/SuppressionNoise.png,present
+ps-c2,19,S/B in signal region,SuppressionSignal.png,ps-c2/plots/refine5/Muon_FullSetC_2/SuppressionSignal.png,present
+ps-c2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer00.png,present
+ps-c2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer01.png,present
+ps-c2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer02.png,present
+ps-c2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer03.png,present
+ps-c2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer04.png,present
+ps-c2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer05.png,present
+ps-c2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer06.png,present
+ps-c2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-c2/plots/refine5/Muon_FullSetC_2/TriggPrimitive_Layer07.png,present
+ps-d1,1,HG FWHM,HG_FWHMMip.png,ps-d1/plots/refine5/Muon_FullSetD_1/HG_FWHMMip.png,present
+ps-d1,2,HG Gaussian width,HG_GaussSigMip.png,ps-d1/plots/refine5/Muon_FullSetD_1/HG_GaussSigMip.png,present
+ps-d1,3,HG Landau MPV,HG_LandMPVMip.png,ps-d1/plots/refine5/Muon_FullSetD_1/HG_LandMPVMip.png,present
+ps-d1,4,HG Landau width,HG_LandSigMip.png,ps-d1/plots/refine5/Muon_FullSetD_1/HG_LandSigMip.png,present
+ps-d1,5,HG peak position,HG_MaxMip.png,ps-d1/plots/refine5/Muon_FullSetD_1/HG_MaxMip.png,present
+ps-d1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-d1/plots/refine5/Muon_FullSetD_1/HGscaleChi2VsLayer.png,present
+ps-d1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer00.png,present
+ps-d1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer01.png,present
+ps-d1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer02.png,present
+ps-d1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer03.png,present
+ps-d1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer04.png,present
+ps-d1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer05.png,present
+ps-d1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer06.png,present
+ps-d1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-d1/plots/refine5/Muon_FullSetD_1/MIP_HG_Layer07.png,present
+ps-d1,15,Trigger counts in XY,MipTriggXY.png,ps-d1/plots/refine5/Muon_FullSetD_1/MipTriggXY.png,present
+ps-d1,16,Trigger counts by channel,MuonTriggers.png,ps-d1/plots/refine5/Muon_FullSetD_1/MuonTriggers.png,present
+ps-d1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-d1/plots/refine5/Muon_FullSetD_1/SNRTriggVsLayer.png,present
+ps-d1,18,S/B in noise region,SuppressionNoise.png,ps-d1/plots/refine5/Muon_FullSetD_1/SuppressionNoise.png,present
+ps-d1,19,S/B in signal region,SuppressionSignal.png,ps-d1/plots/refine5/Muon_FullSetD_1/SuppressionSignal.png,present
+ps-d1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer00.png,present
+ps-d1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer01.png,present
+ps-d1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer02.png,present
+ps-d1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer03.png,present
+ps-d1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer04.png,present
+ps-d1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer05.png,present
+ps-d1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer06.png,present
+ps-d1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-d1/plots/refine5/Muon_FullSetD_1/TriggPrimitive_Layer07.png,present
+ps-d2,1,HG FWHM,HG_FWHMMip.png,ps-d2/plots/refine5/Muon_FullSetD_2/HG_FWHMMip.png,present
+ps-d2,2,HG Gaussian width,HG_GaussSigMip.png,ps-d2/plots/refine5/Muon_FullSetD_2/HG_GaussSigMip.png,present
+ps-d2,3,HG Landau MPV,HG_LandMPVMip.png,ps-d2/plots/refine5/Muon_FullSetD_2/HG_LandMPVMip.png,present
+ps-d2,4,HG Landau width,HG_LandSigMip.png,ps-d2/plots/refine5/Muon_FullSetD_2/HG_LandSigMip.png,present
+ps-d2,5,HG peak position,HG_MaxMip.png,ps-d2/plots/refine5/Muon_FullSetD_2/HG_MaxMip.png,present
+ps-d2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-d2/plots/refine5/Muon_FullSetD_2/HGscaleChi2VsLayer.png,present
+ps-d2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer00.png,present
+ps-d2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer01.png,present
+ps-d2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer02.png,present
+ps-d2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer03.png,present
+ps-d2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer04.png,present
+ps-d2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer05.png,present
+ps-d2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer06.png,present
+ps-d2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-d2/plots/refine5/Muon_FullSetD_2/MIP_HG_Layer07.png,present
+ps-d2,15,Trigger counts in XY,MipTriggXY.png,ps-d2/plots/refine5/Muon_FullSetD_2/MipTriggXY.png,present
+ps-d2,16,Trigger counts by channel,MuonTriggers.png,ps-d2/plots/refine5/Muon_FullSetD_2/MuonTriggers.png,present
+ps-d2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-d2/plots/refine5/Muon_FullSetD_2/SNRTriggVsLayer.png,present
+ps-d2,18,S/B in noise region,SuppressionNoise.png,ps-d2/plots/refine5/Muon_FullSetD_2/SuppressionNoise.png,present
+ps-d2,19,S/B in signal region,SuppressionSignal.png,ps-d2/plots/refine5/Muon_FullSetD_2/SuppressionSignal.png,present
+ps-d2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer00.png,present
+ps-d2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer01.png,present
+ps-d2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer02.png,present
+ps-d2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer03.png,present
+ps-d2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer04.png,present
+ps-d2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer05.png,present
+ps-d2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer06.png,present
+ps-d2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-d2/plots/refine5/Muon_FullSetD_2/TriggPrimitive_Layer07.png,present
+ps-e1,1,HG FWHM,HG_FWHMMip.png,ps-e1/plots/refine5/Muon_FullSetE_1/HG_FWHMMip.png,present
+ps-e1,2,HG Gaussian width,HG_GaussSigMip.png,ps-e1/plots/refine5/Muon_FullSetE_1/HG_GaussSigMip.png,present
+ps-e1,3,HG Landau MPV,HG_LandMPVMip.png,ps-e1/plots/refine5/Muon_FullSetE_1/HG_LandMPVMip.png,present
+ps-e1,4,HG Landau width,HG_LandSigMip.png,ps-e1/plots/refine5/Muon_FullSetE_1/HG_LandSigMip.png,present
+ps-e1,5,HG peak position,HG_MaxMip.png,ps-e1/plots/refine5/Muon_FullSetE_1/HG_MaxMip.png,present
+ps-e1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-e1/plots/refine5/Muon_FullSetE_1/HGscaleChi2VsLayer.png,present
+ps-e1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer00.png,present
+ps-e1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer01.png,present
+ps-e1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer02.png,present
+ps-e1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer03.png,present
+ps-e1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer04.png,present
+ps-e1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer05.png,present
+ps-e1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer06.png,present
+ps-e1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-e1/plots/refine5/Muon_FullSetE_1/MIP_HG_Layer07.png,present
+ps-e1,15,Trigger counts in XY,MipTriggXY.png,ps-e1/plots/refine5/Muon_FullSetE_1/MipTriggXY.png,present
+ps-e1,16,Trigger counts by channel,MuonTriggers.png,ps-e1/plots/refine5/Muon_FullSetE_1/MuonTriggers.png,present
+ps-e1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-e1/plots/refine5/Muon_FullSetE_1/SNRTriggVsLayer.png,present
+ps-e1,18,S/B in noise region,SuppressionNoise.png,ps-e1/plots/refine5/Muon_FullSetE_1/SuppressionNoise.png,present
+ps-e1,19,S/B in signal region,SuppressionSignal.png,ps-e1/plots/refine5/Muon_FullSetE_1/SuppressionSignal.png,present
+ps-e1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer00.png,present
+ps-e1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer01.png,present
+ps-e1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer02.png,present
+ps-e1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer03.png,present
+ps-e1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer04.png,present
+ps-e1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer05.png,present
+ps-e1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer06.png,present
+ps-e1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-e1/plots/refine5/Muon_FullSetE_1/TriggPrimitive_Layer07.png,present
+ps-e2,1,HG FWHM,HG_FWHMMip.png,ps-e2/plots/refine5/Muon_FullSetE_2/HG_FWHMMip.png,present
+ps-e2,2,HG Gaussian width,HG_GaussSigMip.png,ps-e2/plots/refine5/Muon_FullSetE_2/HG_GaussSigMip.png,present
+ps-e2,3,HG Landau MPV,HG_LandMPVMip.png,ps-e2/plots/refine5/Muon_FullSetE_2/HG_LandMPVMip.png,present
+ps-e2,4,HG Landau width,HG_LandSigMip.png,ps-e2/plots/refine5/Muon_FullSetE_2/HG_LandSigMip.png,present
+ps-e2,5,HG peak position,HG_MaxMip.png,ps-e2/plots/refine5/Muon_FullSetE_2/HG_MaxMip.png,present
+ps-e2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-e2/plots/refine5/Muon_FullSetE_2/HGscaleChi2VsLayer.png,present
+ps-e2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer00.png,present
+ps-e2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer01.png,present
+ps-e2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer02.png,present
+ps-e2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer03.png,present
+ps-e2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer04.png,present
+ps-e2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer05.png,present
+ps-e2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer06.png,present
+ps-e2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-e2/plots/refine5/Muon_FullSetE_2/MIP_HG_Layer07.png,present
+ps-e2,15,Trigger counts in XY,MipTriggXY.png,ps-e2/plots/refine5/Muon_FullSetE_2/MipTriggXY.png,present
+ps-e2,16,Trigger counts by channel,MuonTriggers.png,ps-e2/plots/refine5/Muon_FullSetE_2/MuonTriggers.png,present
+ps-e2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-e2/plots/refine5/Muon_FullSetE_2/SNRTriggVsLayer.png,present
+ps-e2,18,S/B in noise region,SuppressionNoise.png,ps-e2/plots/refine5/Muon_FullSetE_2/SuppressionNoise.png,present
+ps-e2,19,S/B in signal region,SuppressionSignal.png,ps-e2/plots/refine5/Muon_FullSetE_2/SuppressionSignal.png,present
+ps-e2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer00.png,present
+ps-e2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer01.png,present
+ps-e2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer02.png,present
+ps-e2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer03.png,present
+ps-e2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer04.png,present
+ps-e2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer05.png,present
+ps-e2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer06.png,present
+ps-e2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-e2/plots/refine5/Muon_FullSetE_2/TriggPrimitive_Layer07.png,present
+ps-f1,1,HG FWHM,HG_FWHMMip.png,ps-f1/plots/refine5/Muon_FullSetF_1/HG_FWHMMip.png,present
+ps-f1,2,HG Gaussian width,HG_GaussSigMip.png,ps-f1/plots/refine5/Muon_FullSetF_1/HG_GaussSigMip.png,present
+ps-f1,3,HG Landau MPV,HG_LandMPVMip.png,ps-f1/plots/refine5/Muon_FullSetF_1/HG_LandMPVMip.png,present
+ps-f1,4,HG Landau width,HG_LandSigMip.png,ps-f1/plots/refine5/Muon_FullSetF_1/HG_LandSigMip.png,present
+ps-f1,5,HG peak position,HG_MaxMip.png,ps-f1/plots/refine5/Muon_FullSetF_1/HG_MaxMip.png,present
+ps-f1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-f1/plots/refine5/Muon_FullSetF_1/HGscaleChi2VsLayer.png,present
+ps-f1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer00.png,present
+ps-f1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer01.png,present
+ps-f1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer02.png,present
+ps-f1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer03.png,present
+ps-f1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer04.png,present
+ps-f1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer05.png,present
+ps-f1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer06.png,present
+ps-f1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-f1/plots/refine5/Muon_FullSetF_1/MIP_HG_Layer07.png,present
+ps-f1,15,Trigger counts in XY,MipTriggXY.png,ps-f1/plots/refine5/Muon_FullSetF_1/MipTriggXY.png,present
+ps-f1,16,Trigger counts by channel,MuonTriggers.png,ps-f1/plots/refine5/Muon_FullSetF_1/MuonTriggers.png,present
+ps-f1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-f1/plots/refine5/Muon_FullSetF_1/SNRTriggVsLayer.png,present
+ps-f1,18,S/B in noise region,SuppressionNoise.png,ps-f1/plots/refine5/Muon_FullSetF_1/SuppressionNoise.png,present
+ps-f1,19,S/B in signal region,SuppressionSignal.png,ps-f1/plots/refine5/Muon_FullSetF_1/SuppressionSignal.png,present
+ps-f1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer00.png,present
+ps-f1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer01.png,present
+ps-f1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer02.png,present
+ps-f1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer03.png,present
+ps-f1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer04.png,present
+ps-f1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer05.png,present
+ps-f1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer06.png,present
+ps-f1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-f1/plots/refine5/Muon_FullSetF_1/TriggPrimitive_Layer07.png,present
+ps-f2,1,HG FWHM,HG_FWHMMip.png,ps-f2/plots/refine5/Muon_FullSetF_2/HG_FWHMMip.png,present
+ps-f2,2,HG Gaussian width,HG_GaussSigMip.png,ps-f2/plots/refine5/Muon_FullSetF_2/HG_GaussSigMip.png,present
+ps-f2,3,HG Landau MPV,HG_LandMPVMip.png,ps-f2/plots/refine5/Muon_FullSetF_2/HG_LandMPVMip.png,present
+ps-f2,4,HG Landau width,HG_LandSigMip.png,ps-f2/plots/refine5/Muon_FullSetF_2/HG_LandSigMip.png,present
+ps-f2,5,HG peak position,HG_MaxMip.png,ps-f2/plots/refine5/Muon_FullSetF_2/HG_MaxMip.png,present
+ps-f2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-f2/plots/refine5/Muon_FullSetF_2/HGscaleChi2VsLayer.png,present
+ps-f2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer00.png,present
+ps-f2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer01.png,present
+ps-f2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer02.png,present
+ps-f2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer03.png,present
+ps-f2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer04.png,present
+ps-f2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer05.png,present
+ps-f2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer06.png,present
+ps-f2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-f2/plots/refine5/Muon_FullSetF_2/MIP_HG_Layer07.png,present
+ps-f2,15,Trigger counts in XY,MipTriggXY.png,ps-f2/plots/refine5/Muon_FullSetF_2/MipTriggXY.png,present
+ps-f2,16,Trigger counts by channel,MuonTriggers.png,ps-f2/plots/refine5/Muon_FullSetF_2/MuonTriggers.png,present
+ps-f2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-f2/plots/refine5/Muon_FullSetF_2/SNRTriggVsLayer.png,present
+ps-f2,18,S/B in noise region,SuppressionNoise.png,ps-f2/plots/refine5/Muon_FullSetF_2/SuppressionNoise.png,present
+ps-f2,19,S/B in signal region,SuppressionSignal.png,ps-f2/plots/refine5/Muon_FullSetF_2/SuppressionSignal.png,present
+ps-f2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer00.png,present
+ps-f2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer01.png,present
+ps-f2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer02.png,present
+ps-f2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer03.png,present
+ps-f2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer04.png,present
+ps-f2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer05.png,present
+ps-f2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer06.png,present
+ps-f2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-f2/plots/refine5/Muon_FullSetF_2/TriggPrimitive_Layer07.png,present
+ps-g1,1,HG FWHM,HG_FWHMMip.png,ps-g1/plots/refine5/Muon_FullSetG_1/HG_FWHMMip.png,present
+ps-g1,2,HG Gaussian width,HG_GaussSigMip.png,ps-g1/plots/refine5/Muon_FullSetG_1/HG_GaussSigMip.png,present
+ps-g1,3,HG Landau MPV,HG_LandMPVMip.png,ps-g1/plots/refine5/Muon_FullSetG_1/HG_LandMPVMip.png,present
+ps-g1,4,HG Landau width,HG_LandSigMip.png,ps-g1/plots/refine5/Muon_FullSetG_1/HG_LandSigMip.png,present
+ps-g1,5,HG peak position,HG_MaxMip.png,ps-g1/plots/refine5/Muon_FullSetG_1/HG_MaxMip.png,present
+ps-g1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-g1/plots/refine5/Muon_FullSetG_1/HGscaleChi2VsLayer.png,present
+ps-g1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer00.png,present
+ps-g1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer01.png,present
+ps-g1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer02.png,present
+ps-g1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer03.png,present
+ps-g1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer04.png,present
+ps-g1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer05.png,present
+ps-g1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer06.png,present
+ps-g1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-g1/plots/refine5/Muon_FullSetG_1/MIP_HG_Layer07.png,present
+ps-g1,15,Trigger counts in XY,MipTriggXY.png,ps-g1/plots/refine5/Muon_FullSetG_1/MipTriggXY.png,present
+ps-g1,16,Trigger counts by channel,MuonTriggers.png,ps-g1/plots/refine5/Muon_FullSetG_1/MuonTriggers.png,present
+ps-g1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-g1/plots/refine5/Muon_FullSetG_1/SNRTriggVsLayer.png,present
+ps-g1,18,S/B in noise region,SuppressionNoise.png,ps-g1/plots/refine5/Muon_FullSetG_1/SuppressionNoise.png,present
+ps-g1,19,S/B in signal region,SuppressionSignal.png,ps-g1/plots/refine5/Muon_FullSetG_1/SuppressionSignal.png,present
+ps-g1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer00.png,present
+ps-g1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer01.png,present
+ps-g1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer02.png,present
+ps-g1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer03.png,present
+ps-g1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer04.png,present
+ps-g1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer05.png,present
+ps-g1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer06.png,present
+ps-g1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-g1/plots/refine5/Muon_FullSetG_1/TriggPrimitive_Layer07.png,present
+ps-g2,1,HG FWHM,HG_FWHMMip.png,ps-g2/plots/refine5/Muon_FullSetG_2/HG_FWHMMip.png,present
+ps-g2,2,HG Gaussian width,HG_GaussSigMip.png,ps-g2/plots/refine5/Muon_FullSetG_2/HG_GaussSigMip.png,present
+ps-g2,3,HG Landau MPV,HG_LandMPVMip.png,ps-g2/plots/refine5/Muon_FullSetG_2/HG_LandMPVMip.png,present
+ps-g2,4,HG Landau width,HG_LandSigMip.png,ps-g2/plots/refine5/Muon_FullSetG_2/HG_LandSigMip.png,present
+ps-g2,5,HG peak position,HG_MaxMip.png,ps-g2/plots/refine5/Muon_FullSetG_2/HG_MaxMip.png,present
+ps-g2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-g2/plots/refine5/Muon_FullSetG_2/HGscaleChi2VsLayer.png,present
+ps-g2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer00.png,present
+ps-g2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer01.png,present
+ps-g2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer02.png,present
+ps-g2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer03.png,present
+ps-g2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer04.png,present
+ps-g2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer05.png,present
+ps-g2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer06.png,present
+ps-g2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-g2/plots/refine5/Muon_FullSetG_2/MIP_HG_Layer07.png,present
+ps-g2,15,Trigger counts in XY,MipTriggXY.png,ps-g2/plots/refine5/Muon_FullSetG_2/MipTriggXY.png,present
+ps-g2,16,Trigger counts by channel,MuonTriggers.png,ps-g2/plots/refine5/Muon_FullSetG_2/MuonTriggers.png,present
+ps-g2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-g2/plots/refine5/Muon_FullSetG_2/SNRTriggVsLayer.png,present
+ps-g2,18,S/B in noise region,SuppressionNoise.png,ps-g2/plots/refine5/Muon_FullSetG_2/SuppressionNoise.png,present
+ps-g2,19,S/B in signal region,SuppressionSignal.png,ps-g2/plots/refine5/Muon_FullSetG_2/SuppressionSignal.png,present
+ps-g2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer00.png,present
+ps-g2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer01.png,present
+ps-g2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer02.png,present
+ps-g2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer03.png,present
+ps-g2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer04.png,present
+ps-g2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer05.png,present
+ps-g2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer06.png,present
+ps-g2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-g2/plots/refine5/Muon_FullSetG_2/TriggPrimitive_Layer07.png,present
+ps-h1,1,HG FWHM,HG_FWHMMip.png,ps-h1/plots/refine5/Muon_FullSetH_1/HG_FWHMMip.png,present
+ps-h1,2,HG Gaussian width,HG_GaussSigMip.png,ps-h1/plots/refine5/Muon_FullSetH_1/HG_GaussSigMip.png,present
+ps-h1,3,HG Landau MPV,HG_LandMPVMip.png,ps-h1/plots/refine5/Muon_FullSetH_1/HG_LandMPVMip.png,present
+ps-h1,4,HG Landau width,HG_LandSigMip.png,ps-h1/plots/refine5/Muon_FullSetH_1/HG_LandSigMip.png,present
+ps-h1,5,HG peak position,HG_MaxMip.png,ps-h1/plots/refine5/Muon_FullSetH_1/HG_MaxMip.png,present
+ps-h1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-h1/plots/refine5/Muon_FullSetH_1/HGscaleChi2VsLayer.png,present
+ps-h1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer00.png,present
+ps-h1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer01.png,present
+ps-h1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer02.png,present
+ps-h1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer03.png,present
+ps-h1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer04.png,present
+ps-h1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer05.png,present
+ps-h1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer06.png,present
+ps-h1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-h1/plots/refine5/Muon_FullSetH_1/MIP_HG_Layer07.png,present
+ps-h1,15,Trigger counts in XY,MipTriggXY.png,ps-h1/plots/refine5/Muon_FullSetH_1/MipTriggXY.png,present
+ps-h1,16,Trigger counts by channel,MuonTriggers.png,ps-h1/plots/refine5/Muon_FullSetH_1/MuonTriggers.png,present
+ps-h1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-h1/plots/refine5/Muon_FullSetH_1/SNRTriggVsLayer.png,present
+ps-h1,18,S/B in noise region,SuppressionNoise.png,ps-h1/plots/refine5/Muon_FullSetH_1/SuppressionNoise.png,present
+ps-h1,19,S/B in signal region,SuppressionSignal.png,ps-h1/plots/refine5/Muon_FullSetH_1/SuppressionSignal.png,present
+ps-h1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer00.png,present
+ps-h1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer01.png,present
+ps-h1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer02.png,present
+ps-h1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer03.png,present
+ps-h1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer04.png,present
+ps-h1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer05.png,present
+ps-h1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer06.png,present
+ps-h1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-h1/plots/refine5/Muon_FullSetH_1/TriggPrimitive_Layer07.png,present
+ps-i1,1,HG FWHM,HG_FWHMMip.png,ps-i1/plots/refine5/Muon_FullSetI_1/HG_FWHMMip.png,present
+ps-i1,2,HG Gaussian width,HG_GaussSigMip.png,ps-i1/plots/refine5/Muon_FullSetI_1/HG_GaussSigMip.png,present
+ps-i1,3,HG Landau MPV,HG_LandMPVMip.png,ps-i1/plots/refine5/Muon_FullSetI_1/HG_LandMPVMip.png,present
+ps-i1,4,HG Landau width,HG_LandSigMip.png,ps-i1/plots/refine5/Muon_FullSetI_1/HG_LandSigMip.png,present
+ps-i1,5,HG peak position,HG_MaxMip.png,ps-i1/plots/refine5/Muon_FullSetI_1/HG_MaxMip.png,present
+ps-i1,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-i1/plots/refine5/Muon_FullSetI_1/HGscaleChi2VsLayer.png,present
+ps-i1,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer00.png,present
+ps-i1,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer01.png,present
+ps-i1,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer02.png,present
+ps-i1,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer03.png,present
+ps-i1,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer04.png,present
+ps-i1,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer05.png,present
+ps-i1,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer06.png,present
+ps-i1,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-i1/plots/refine5/Muon_FullSetI_1/MIP_HG_Layer07.png,present
+ps-i1,15,Trigger counts in XY,MipTriggXY.png,ps-i1/plots/refine5/Muon_FullSetI_1/MipTriggXY.png,present
+ps-i1,16,Trigger counts by channel,MuonTriggers.png,ps-i1/plots/refine5/Muon_FullSetI_1/MuonTriggers.png,present
+ps-i1,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-i1/plots/refine5/Muon_FullSetI_1/SNRTriggVsLayer.png,present
+ps-i1,18,S/B in noise region,SuppressionNoise.png,ps-i1/plots/refine5/Muon_FullSetI_1/SuppressionNoise.png,present
+ps-i1,19,S/B in signal region,SuppressionSignal.png,ps-i1/plots/refine5/Muon_FullSetI_1/SuppressionSignal.png,present
+ps-i1,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer00.png,present
+ps-i1,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer01.png,present
+ps-i1,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer02.png,present
+ps-i1,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer03.png,present
+ps-i1,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer04.png,present
+ps-i1,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer05.png,present
+ps-i1,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer06.png,present
+ps-i1,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-i1/plots/refine5/Muon_FullSetI_1/TriggPrimitive_Layer07.png,present
+ps-i2,1,HG FWHM,HG_FWHMMip.png,ps-i2/plots/refine5/Muon_FullSetI_2/HG_FWHMMip.png,present
+ps-i2,2,HG Gaussian width,HG_GaussSigMip.png,ps-i2/plots/refine5/Muon_FullSetI_2/HG_GaussSigMip.png,present
+ps-i2,3,HG Landau MPV,HG_LandMPVMip.png,ps-i2/plots/refine5/Muon_FullSetI_2/HG_LandMPVMip.png,present
+ps-i2,4,HG Landau width,HG_LandSigMip.png,ps-i2/plots/refine5/Muon_FullSetI_2/HG_LandSigMip.png,present
+ps-i2,5,HG peak position,HG_MaxMip.png,ps-i2/plots/refine5/Muon_FullSetI_2/HG_MaxMip.png,present
+ps-i2,6,HG chi-square / ndf,HGscaleChi2VsLayer.png,ps-i2/plots/refine5/Muon_FullSetI_2/HGscaleChi2VsLayer.png,present
+ps-i2,7,MIP spectra and fits - layer 0,MIP_HG_Layer00.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer00.png,present
+ps-i2,8,MIP spectra and fits - layer 1,MIP_HG_Layer01.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer01.png,present
+ps-i2,9,MIP spectra and fits - layer 2,MIP_HG_Layer02.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer02.png,present
+ps-i2,10,MIP spectra and fits - layer 3,MIP_HG_Layer03.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer03.png,present
+ps-i2,11,MIP spectra and fits - layer 4,MIP_HG_Layer04.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer04.png,present
+ps-i2,12,MIP spectra and fits - layer 5,MIP_HG_Layer05.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer05.png,present
+ps-i2,13,MIP spectra and fits - layer 6,MIP_HG_Layer06.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer06.png,present
+ps-i2,14,MIP spectra and fits - layer 7,MIP_HG_Layer07.png,ps-i2/plots/refine5/Muon_FullSetI_2/MIP_HG_Layer07.png,present
+ps-i2,15,Trigger counts in XY,MipTriggXY.png,ps-i2/plots/refine5/Muon_FullSetI_2/MipTriggXY.png,present
+ps-i2,16,Trigger counts by channel,MuonTriggers.png,ps-i2/plots/refine5/Muon_FullSetI_2/MuonTriggers.png,present
+ps-i2,17,Signal-to-noise ratio,SNRTriggVsLayer.png,ps-i2/plots/refine5/Muon_FullSetI_2/SNRTriggVsLayer.png,present
+ps-i2,18,S/B in noise region,SuppressionNoise.png,ps-i2/plots/refine5/Muon_FullSetI_2/SuppressionNoise.png,present
+ps-i2,19,S/B in signal region,SuppressionSignal.png,ps-i2/plots/refine5/Muon_FullSetI_2/SuppressionSignal.png,present
+ps-i2,20,Trigger primitives - layer 0,TriggPrimitive_Layer00.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer00.png,present
+ps-i2,21,Trigger primitives - layer 1,TriggPrimitive_Layer01.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer01.png,present
+ps-i2,22,Trigger primitives - layer 2,TriggPrimitive_Layer02.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer02.png,present
+ps-i2,23,Trigger primitives - layer 3,TriggPrimitive_Layer03.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer03.png,present
+ps-i2,24,Trigger primitives - layer 4,TriggPrimitive_Layer04.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer04.png,present
+ps-i2,25,Trigger primitives - layer 5,TriggPrimitive_Layer05.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer05.png,present
+ps-i2,26,Trigger primitives - layer 6,TriggPrimitive_Layer06.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer06.png,present
+ps-i2,27,Trigger primitives - layer 7,TriggPrimitive_Layer07.png,ps-i2/plots/refine5/Muon_FullSetI_2/TriggPrimitive_Layer07.png,present
